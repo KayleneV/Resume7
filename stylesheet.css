@@ -86,3 +86,8 @@ img:hover {
 body {
   background-image: url("https://static.vecteezy.com/system/resources/previews/004/334/225/original/galaxy-fantasy-background-with-pastel-colors-free-vector.jpg");
  }
+
+ img {
+  width: 100%;
+  height: auto;
+}
